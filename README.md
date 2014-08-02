@@ -30,3 +30,8 @@ Start server
 ```sh
 $ docker run -d -p 80:80 kjwon15/earthreader-web
 ```
+
+Licence
+-------
+
+AGPLv3 or later.
